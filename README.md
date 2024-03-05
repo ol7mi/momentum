@@ -15,4 +15,4 @@ https://nomadcoders.co/javascript-for-beginners/lobby
 - Location 좌표 정보 (위도, 경도) 가져오기
 총 6가지 기능이 구현되어 있습니다
 ***
-file:///Users/eungmi/Downloads/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-03-06%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%203.29.39.gif
+![8ea252d7-8eed-4d68-a200-40e7543a08c7](https://github.com/ol7mi/momentum/assets/103396353/2adf25cc-7502-4826-9cd3-9931407e1087)
